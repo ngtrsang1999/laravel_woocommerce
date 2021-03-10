@@ -1,0 +1,2 @@
+{"key_id":33,"user_id":"1","consumer_key":"ck_95aa6da8a64de18f0d1cf1301458c6941aee7ca4","consumer_secret":"cs_dfb74b0041f2577229315eef620be51853e26c71","key_permissions":"read_write"}
+Ok
